@@ -1,0 +1,4 @@
+web/static/production/
+web/static/testing/
+web/static/vendor/
+app/resources/sass/.sass-cache
